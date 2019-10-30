@@ -37,7 +37,7 @@ An overview of the complete set of datasets available for this event is listed b
 
 |  Product | Source | Used for   | Geo Coverage  | Time Coverage   |  Resolution |  Format | HTTP Access  |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-|Baltic Sea - SAR Sea Ice Thickness and Drift | RADARSAT-2 or SENTINEL-1a | ice thickness and drift in a 500 m grid | Baltic | 12/01/2016 - up to now. | Latitude 53 to 66 degrees Longitude 9 to 31 degrees | NetCDF | [SAR Sea Ice](https://www.wekeo.eu/data-access/EO:MO:DAT:SEAICE_BAL_SEAICE_L4_NRT_OBSERVATIONS_011_011)|
+|Baltic Sea - SAR Sea Ice Thickness and Drift | RADARSAT-2 or SENTINEL-1a | ice thickness and drift in a 500 m grid | Baltic | 12/01/2016 - up to now. |  | NetCDF | [SAR Sea Ice](https://www.wekeo.eu/data-access/EO:MO:DAT:SEAICE_BAL_SEAICE_L4_NRT_OBSERVATIONS_011_011)|
 
 
 
