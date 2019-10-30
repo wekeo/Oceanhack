@@ -52,7 +52,7 @@ An overview of the complete set of datasets available for this event is listed b
 ### Platform offering <a name="platform"></a>
 WEkEO platform [wekeo.eu](https://www.wekeo.eu/) provides access to Copernicus datasets and cloud based processing resources. Get to know the capabilities of WEkEO from [here](https://www.wekeo.eu)
 
-You will be offered VM access by participating on the AtmosHack2018 [here](https://www.wekeo.eu/advanced_user)
+You will be offered VM access by participating on the Oceanhack [here](https://www.wekeo.eu/advanced_user)
 
 
 ### Useful Links <a name="useful"></a>
