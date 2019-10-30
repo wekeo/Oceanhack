@@ -48,7 +48,8 @@ You will be offered VM access by participating on the Oceanhack [here](https://w
 
 ### Useful Links <a name="useful"></a>
 
-[How to Visualize NetCDF data - YouTube Video](https://www.youtube.com/watch?v=XqoetylQAIY)
+
+[![How to Visualize NetCDF data - YouTube Video](https://github.com/wekeo/Oceanhack/blob/master/coverocean.jpg)](https://www.youtube.com/watch?v=XqoetylQAIY "How to Visualize NetCDF data - YouTube Video")
 
 CAMS: https://atmosphere.copernicus.eu/
 
