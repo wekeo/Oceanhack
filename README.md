@@ -1,3 +1,5 @@
+![EventBanner](https://github.com/wekeo/Oceanhack/blob/master/coverocean.jpg)
+
 # Oceanhack
 
 The event is a one-of-a-kind gathering of data scientists, web/app developers, UX and UI designers, visionaries/space enthusiasts, marketing wizards and business developers, project managers and field experts to create solutions to 
@@ -8,8 +10,6 @@ Copernicus OceanHack is funded by the EU’s Copernicus Programme and has been o
 More info at
 
 http://garage48.org/events/copernicus-oceanhack
-
-![EventBanner](https://github.com/wekeo/Oceanhack/blob/master/coverocean.jpg)
 
  # Table of contents
 1. [Challenge](#challenge)
