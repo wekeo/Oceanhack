@@ -37,8 +37,8 @@ An overview of the complete set of datasets available for this event is listed b
 
 |  Product | Source | Used for   | Geo Coverage  | Time Coverage   |  Resolution |  Format | HTTP Access  |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-|PMAP Aerosol Optical Depth - particles in the atmosphere | Metop | Air pollution (basis for PM10, PM2.5 etc) | Global | April 2016 - onwards.  Aim 2017 onwards. (14 per day). January 2017 until December 2017 | 5x40km and 10x40km | NetCDF | [GOME-PMAP](http://atmoshack.obs.eu-de.otc.t-systems.com/?prefix=01-GOME_PMAP)|
-|Sentinel_5p Monthly maps | Temis Service | NO2 | Global |  02/2018-present | 0,125 degrees | ascii | [Temis KNMI website](http://temis.nl/airpollution/no2col/no2month_tropomi.php) |
+|Baltic Sea - SAR Sea Ice Thickness and Drift | RADARSAT-2 or SENTINEL-1a | ice thickness and drift in a 500 m grid | Baltic | 12/01/2016 - up to now. | Latitude 53 to 66 degrees Longitude 9 to 31 degrees | NetCDF | [SAR Sea Ice](https://www.wekeo.eu/data-access/EO:MO:DAT:SEAICE_BAL_SEAICE_L4_NRT_OBSERVATIONS_011_011)|
+
 
 
 ### Platform offering <a name="platform"></a>
