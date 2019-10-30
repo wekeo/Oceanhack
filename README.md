@@ -8,7 +8,7 @@ https://ultrahack.org/atmoshack2018
 
 https://www.eumetsat.int/website/home/News/ConferencesandEvents/DAT_4070861.html?lang=EN
 
-![EventBanner](https://github.com/WEkEO/AtmosHack2018/blob/master/01-images/Atmoshack2018-banner.jpg)
+![EventBanner](https://github.com/wekeo/Oceanhack/blob/master/coverocean.jpg)
 
  # Table of contents
 1. [Challenge](#challenge)
