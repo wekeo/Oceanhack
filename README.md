@@ -1,12 +1,13 @@
 # Oceanhack
 
-Join EUMETSAT, ECMWF, FMI and University of Helsinki scientists for a weekend hackathon working with atmospheric data at the Finnish Meteorological Service in Helsinki on 16-18 November 2018. 
+Copernicus OceanHack is funded by the EU’s Copernicus Programme and has been organised through a partnership of EUMETSAT, the Copernicus Marine Environment Service, and the Estonian Environment Agency.
 
-This Github repository contains the resources for Copernicus Hackathon 2018 in Helsinki, it can be used to share code. More info at
+The event is a one-of-a-kind gathering of data scientists, web/app developers, UX and UI designers, visionaries/space enthusiasts, marketing wizards and business developers, project managers and field experts to create solutions to 
+problems that currently affect the Baltic Sea, and beyond to help people in their daily lives in this beautiful region. 
 
-https://ultrahack.org/atmoshack2018 
+More info at
 
-https://www.eumetsat.int/website/home/News/ConferencesandEvents/DAT_4070861.html?lang=EN
+http://garage48.org/events/copernicus-oceanhack
 
 ![EventBanner](https://github.com/wekeo/Oceanhack/blob/master/coverocean.jpg)
 
