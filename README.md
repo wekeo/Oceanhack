@@ -25,6 +25,10 @@ http://garage48.org/events/copernicus-oceanhack
 
 
 ### Dataset offering <a name="datasets"></a>
+
+Where can I find out about what Copernicus data is available? 
+visit WEkEO https://www.wekeo.eu/dataset-navigator/start
+
 An overview of the complete set of datasets available for this event is listed below
 
 |  Product | Source | Used for   | Geo Coverage  | Time Coverage   |  Resolution |  Format | HTTP Access  |
