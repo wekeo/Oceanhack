@@ -29,6 +29,10 @@ http://garage48.org/events/copernicus-oceanhack
 Where can I find out about what Copernicus data is available? 
 visit WEkEO https://www.wekeo.eu/dataset-navigator/start
 
+What can I find out about the Baltic region? https://www.wekeo.eu/dataset-navigator/search?query=baltic&results=20
+
+
+
 An overview of the complete set of datasets available for this event is listed below
 
 |  Product | Source | Used for   | Geo Coverage  | Time Coverage   |  Resolution |  Format | HTTP Access  |
@@ -41,7 +45,6 @@ An overview of the complete set of datasets available for this event is listed b
 WEkEO platform [wekeo.eu](https://www.wekeo.eu/) provides access to Copernicus datasets and cloud based processing resources. Get to know the capabilities of WEkEO from [here](https://www.wekeo.eu)
 
 You will be offered VM access by participating on the Oceanhack [here](https://www.wekeo.eu/advanced_user)
-
 
 ### Useful Links <a name="useful"></a>
 
